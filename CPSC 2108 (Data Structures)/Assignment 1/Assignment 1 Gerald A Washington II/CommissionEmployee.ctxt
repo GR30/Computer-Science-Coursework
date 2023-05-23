@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=first\ last\ ssn\ sales\ rate
+comment0.target=CommissionEmployee(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment1.params=rate
+comment1.target=void\ setCommissionRate(double)
+comment2.params=
+comment2.target=double\ getCommissionRate()
+comment3.params=sales
+comment3.target=void\ setGrossSales(double)
+comment4.params=
+comment4.target=double\ getGrossSales()
+comment5.params=
+comment5.target=double\ earnings()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

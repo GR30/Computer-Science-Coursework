@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=ScoreToWin
+comment0.target=Scoreable(int)
+comment1.params=
+comment1.target=void\ addPoint()
+comment2.params=
+comment2.target=int\ GetScore()
+comment3.params=
+comment3.target=java.lang.Boolean\ HasWon()
+numComments=4

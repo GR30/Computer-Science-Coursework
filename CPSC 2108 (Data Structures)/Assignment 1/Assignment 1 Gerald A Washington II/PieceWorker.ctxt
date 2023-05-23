@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=first\ last\ ssn\ wagePerPiece\ piecesProduced
+comment0.target=PieceWorker(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment1.params=x
+comment1.target=void\ setWage(double)
+comment2.params=
+comment2.target=double\ getWage()
+comment3.params=x
+comment3.target=void\ setPiecesProduced(int)
+comment4.params=
+comment4.target=double\ getPiecesProduced()
+comment5.params=
+comment5.target=double\ earnings()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

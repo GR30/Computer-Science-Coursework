@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=row\ col
+comment0.target=GameSpace(java.lang.String,\ int)
+comment1.params=Ship
+comment1.target=void\ setShip(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getShip()
+comment3.params=
+comment3.target=java.lang.String\ hitSpace()
+comment4.params=
+comment4.target=java.lang.Boolean\ canHit()
+comment5.params=
+comment5.target=java.lang.Boolean\ getHit()
+comment6.params=
+comment6.target=java.lang.String\ GetLocation()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
