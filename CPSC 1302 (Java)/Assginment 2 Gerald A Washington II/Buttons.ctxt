@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Buttons()
+comment1.params=label\ gridx\ gridy
+comment1.target=Buttons(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getGridx()
+comment3.params=
+comment3.target=int\ getGridy()
+comment4.params=
+comment4.target=int\ getTurnImageNum()
+comment5.params=x
+comment5.target=void\ setTurnImageNum(int)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7

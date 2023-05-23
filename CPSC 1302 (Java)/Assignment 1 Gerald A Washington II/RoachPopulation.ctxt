@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=RoachPopulation(int)
+comment1.params=
+comment1.target=void\ breed()
+comment2.params=percent
+comment2.target=void\ spray(double)
+comment3.params=
+comment3.target=double\ getRoaches()
+numComments=4

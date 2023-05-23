@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Calculator()
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=
+comment2.target=void\ getSqrt()
+comment3.params=
+comment3.target=void\ getPosNeg()
+comment4.params=
+comment4.target=void\ getResult()
+comment5.params=
+comment5.target=void\ setDesign()
+comment6.params=ae
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7

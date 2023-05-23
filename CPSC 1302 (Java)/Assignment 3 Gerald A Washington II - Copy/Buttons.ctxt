@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Buttons()
+comment1.params=x
+comment1.target=void\ setNumButtons(int)
+comment2.params=
+comment2.target=int\ getNumOfButtons()
+numComments=3

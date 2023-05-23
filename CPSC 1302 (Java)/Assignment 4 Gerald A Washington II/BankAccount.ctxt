@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BankAccount()
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ bank\ account\ with\ a\ zero\ balance.\r\n
+comment1.params=anAccountNumber\ initialBalance
+comment1.target=BankAccount(int,\ double)
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ a\ bank\ account\ with\ a\ given\ balance.\r\n\ \ \ \ \ \ @param\ initialBalance\ the\ initial\ balance\r\n
+comment2.params=in
+comment2.target=void\ read(java.util.Scanner)
+comment2.text=\r\n\ \ \ \ \ \ Reads\ an\ account\ number\ and\ balance.\r\n\ \ \ \ \ \ @param\ in\ the\ scanner\r\n\ \ \ \ \ \ @return\ true\ if\ the\ data\ was\ read\r\n\ \ \ \ \ \ false\ if\ the\ end\ of\ the\ stream\ was\ reached\r\n
+comment3.params=amount
+comment3.target=void\ deposit(double)
+comment3.text=\r\n\ \ \ \ \ \ Deposits\ money\ into\ the\ bank\ account.\r\n\ \ \ \ \ \ @param\ amount\ the\ amount\ to\ deposit\r\n
+comment4.params=amount
+comment4.target=void\ withdraw(double)
+comment4.text=\r\n\ \ \ \ \ \ Withdraws\ money\ from\ the\ bank\ account.\r\n\ \ \ \ \ \ @param\ amount\ the\ amount\ to\ withdraw\r\n
+comment5.params=
+comment5.target=double\ getBalance()
+comment5.text=\r\n\ \ \ \ \ \ Gets\ the\ current\ balance\ of\ the\ bank\ account.\r\n\ \ \ \ \ \ @return\ the\ current\ balance\r\n
+comment6.params=
+comment6.target=int\ getAccountNumber()
+comment6.text=\r\n\ \ \ \ \ \ Gets\ the\ account\ number\ of\ the\ bank\ account.\r\n\ \ \ \ \ \ @return\ the\ account\ number\r\n
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=firstE\ secondE
+comment0.target=Pair(java.lang.Object,\ java.lang.Object)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pair\r\n
+comment1.params=
+comment1.target=java.lang.Object\ getFirst()
+comment2.params=
+comment2.target=java.lang.Object\ getSecond()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

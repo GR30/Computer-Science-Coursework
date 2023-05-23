@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Buttons[][]\ getButtons()
+comment1.params=currentButtons
+comment1.target=void\ setButtons(Buttons[][])
+comment2.params=x\ y\ z
+comment2.target=void\ setButtons(int,\ int,\ int)
+comment3.params=x\ y
+comment3.target=int\ getButtonClicks(int,\ int)
+comment4.params=x\ y\ z
+comment4.target=void\ setButtonClicks(int,\ int,\ int)
+comment5.params=
+comment5.target=boolean\ buttonClicked()
+comment6.params=
+comment6.target=void\ main()
+comment7.params=
+comment7.target=TTT_GUI()
+comment8.params=
+comment8.target=void\ resetButtonClicks()
+comment9.params=s
+comment9.target=void\ switchRemaining(int)
+numComments=10
