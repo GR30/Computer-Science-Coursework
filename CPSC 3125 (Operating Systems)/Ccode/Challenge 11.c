@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+class main{
+    int numberSets[][] = [ [10,95,17,35], [95,17,35,80], [38,94,78,0], [44,38,94,78] ];
+    int productSet[] = [productOfNumSet(0), productOfNumSet(1), productOfNumSet(2), productOfNumSet(3)]
+
+    productOfNumSet(int setNum){
+        int nS[] = numberSets[setNum];
+        int product = nS[0];
+
+        for (y=1; y<nS.length; y++){ 
+            product = product * nS[y];
+        }
+
+        return product;
+    }
+
+    findGreatest(){
+        int greatest = 0;
+        for (x=0; x<productSet.length; x++){
+            if (productSet[x] > greatest) greatest = productSet[x];
+        }
+        return greatest;
+    }
+}
+
+

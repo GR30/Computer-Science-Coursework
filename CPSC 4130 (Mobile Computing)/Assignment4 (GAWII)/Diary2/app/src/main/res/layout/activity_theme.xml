@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/theme"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="8dp"
+    android:paddingVertical="16dp"
+    tools:context="com.example.zafkiel.diarywithlocker.Theme">
+
+    <TextView
+        android:id="@+id/textColor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change color : RGB"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textColor"
+        android:text="Red"
+        android:textSize="24sp" />
+
+    <android.support.v7.widget.AppCompatSeekBar
+        android:id="@+id/Rcolor"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textR"
+        android:max="255"
+        android:min="0" />
+
+    <TextView
+        android:id="@+id/textG"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Rcolor"
+        android:text="Green"
+        android:textSize="24sp" />
+
+    <android.support.v7.widget.AppCompatSeekBar
+        android:id="@+id/Gcolor"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textG"
+        android:max="255"
+        android:min="0" />
+
+    <TextView
+        android:id="@+id/textB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Gcolor"
+        android:text="Blue"
+        android:textSize="24sp" />
+
+    <android.support.v7.widget.AppCompatSeekBar
+        android:id="@+id/Bcolor"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textB"
+        android:max="255"
+        android:min="0" />
+</RelativeLayout>

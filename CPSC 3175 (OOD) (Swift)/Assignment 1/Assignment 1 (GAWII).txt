@@ -1,0 +1,18 @@
+Link to my code in ISwift online playground.
+https://iswift.org/playground?qr6FU6
+
+I'm actually unsure if this code will run properly 
+because at a certain point when making arrays, I swift's 
+playground scripts began to timeout. 
+
+I continued to craft this code despite this, 
+but I feel as if I asked the playground to do too much. 
+
+I immediately attempted to use Visual Studio Code,
+but for some reason I'm unable to find the swift extentions
+that this website gives
+(https://marketplace.visualstudio.com/)
+from within the program like it says.
+
+Tomorrow I'll be going to the computer science lab 
+to try using a Mac to continue.

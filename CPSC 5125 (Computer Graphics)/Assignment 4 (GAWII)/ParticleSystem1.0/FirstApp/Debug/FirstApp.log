@@ -1,0 +1,66 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FirstApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ParticleSystem.cpp
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\angel.h(64): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(39): warning C4091: 'typedef ': ignored on left of 'Material' when no variable is declared
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(45): warning C4091: 'typedef ': ignored on left of 'Transform' when no variable is declared
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(54): warning C4091: 'typedef ': ignored on left of 'Sphere' when no variable is declared
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(68): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(75): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(80): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(82): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(83): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(84): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(87): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(89): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(90): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(201): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(210): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(300): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(303): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(522): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(529): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(530): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(531): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(532): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(533): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(534): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(541): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(542): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(543): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(544): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(547): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(548): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(551): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(552): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(555): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(556): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(557): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(558): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(561): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(562): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(565): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(566): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(695): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(696): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(782): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\gawii\documents\csu\cpsc 5125\assignment 4\particlesystem1.0\firstapp\particlesystem.cpp(784): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+  FirstApp.vcxproj -> C:\Users\GAWII\Documents\CSU\CPSC 5125\Assignment 4\ParticleSystem1.0\Debug\ParticleSystem.exe
+  FirstApp.vcxproj -> C:\Users\GAWII\Documents\CSU\CPSC 5125\Assignment 4\ParticleSystem1.0\Debug\ParticleSystem.pdb (Full PDB)

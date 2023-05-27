@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gwblu.myapplication.MainActivity">
+
+    <Button
+        android:id="@+id/Timer_Button"
+        android:layout_width="150dp"
+        android:layout_height="138dp"
+        android:layout_marginBottom="119dp"
+        android:layout_marginEnd="117dp"
+        android:layout_marginStart="117dp"
+        android:layout_marginTop="32dp"
+        android:text="timer"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Calculator" />
+
+    <Button
+        android:id="@+id/Calculator"
+        android:layout_width="152dp"
+        android:layout_height="145dp"
+        android:layout_marginBottom="32dp"
+        android:layout_marginEnd="116dp"
+        android:layout_marginStart="116dp"
+        android:layout_marginTop="77dp"
+        android:text="calculator"
+        app:layout_constraintBottom_toTopOf="@+id/Timer_Button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

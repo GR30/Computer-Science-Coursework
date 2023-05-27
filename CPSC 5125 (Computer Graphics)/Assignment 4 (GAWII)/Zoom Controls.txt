@@ -1,0 +1,2 @@
+X: Zoom In
+Z: Zoom out
