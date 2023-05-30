@@ -1,0 +1,3 @@
+This folder only contains written reports detailing the weekly progress of my class project.
+
+Please see repo "A-Simple-Fighting-Game-ASFM" for the project in its current state.
